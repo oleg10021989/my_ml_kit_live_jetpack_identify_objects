@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "356334492069",
+    "project_id": "my-project-ml-vision-363b7",
+    "storage_bucket": "my-project-ml-vision-363b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356334492069:android:2f2b07116061c45310f04c",
+        "android_client_info": {
+          "package_name": "com.example.mlappcationsimple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356334492069-5fsm9f1jgpf14q9d1s47nbpjqp83os6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhbgNoWCypZMShvObCSZnFZcbYc5zqyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356334492069-5fsm9f1jgpf14q9d1s47nbpjqp83os6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356334492069:android:112ecb47cd49103e10f04c",
+        "android_client_info": {
+          "package_name": "com.example.my_ml_kit_live_jetpack_identify_objects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356334492069-5fsm9f1jgpf14q9d1s47nbpjqp83os6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhbgNoWCypZMShvObCSZnFZcbYc5zqyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356334492069-5fsm9f1jgpf14q9d1s47nbpjqp83os6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
